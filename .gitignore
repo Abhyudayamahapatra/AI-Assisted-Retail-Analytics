@@ -1,0 +1,18 @@
+# Ignore datasets
+data/*.csv
+
+# Ignore Power BI file (large)
+Dashboard/*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+# Ignore CSV files
+Data/*.csv
+
+# Ignore Power BI files
+Dashboard/*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
