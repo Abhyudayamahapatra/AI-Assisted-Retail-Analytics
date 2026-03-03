@@ -1,7 +1,8 @@
 \# AI-Assisted Retail Sales Analytics
 
-!\[Dashboard Preview](Dashboard/Dashboard\_preview.png)
-## 📌 Project Overview
+!\[Dashboard Preview](Dashboard\_preview.png)
+
+\## 📌 Project Overview
 
 This project demonstrates an end-to-end retail analytics workflow using Python and Power BI.  
 
