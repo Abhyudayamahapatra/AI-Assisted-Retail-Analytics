@@ -1,115 +1,63 @@
-\# AI-Assisted Retail Sales Analytics
+# AI-Assisted Retail Sales Analytics
 
-
-
-!\[Dashboard Preview](Dashboard\_preview.png)
-
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end retail analytics workflow using Python and Power BI.  
+This project demonstrates an end-to-end retail analytics workflow using Python and Power BI.
 
-The objective is to clean, analyse, and extract business insights from retail sales data using an AI-assisted approach.
-
-
+The objective is to clean, analyze, and extract actionable business insights from retail sales data using an AI-assisted approach.
 
 ---
 
+## 🚀 Key Features
 
-
-\## 🛠 Tech Stack
-
-\- Python (Pandas, NumPy)
-
-\- Power BI
-
-\- Git \& GitHub
-
-
+- Data Cleaning & Preprocessing using Python  
+- Exploratory Data Analysis (EDA)  
+- Sales Performance Analysis  
+- Profit & Revenue Insights  
+- Interactive Power BI Dashboard  
+- Business Recommendation Generation  
 
 ---
 
+## 🛠 Tech Stack
 
-
-\## 🔎 Key Steps Performed
-
-
-
-\### 1️⃣ Data Cleaning (Python)
-
-\- Removed duplicates
-
-\- Handled missing values
-
-\- Converted Order Date to datetime
-
-\- Created Year and Month columns
-
-\- Saved cleaned dataset
-
-
-
-\### 2️⃣ Exploratory Data Analysis
-
-\- Top 10 products by sales
-
-\- Category-wise sales analysis
-
-\- Monthly sales trends
-
-\- Region-wise performance
-
-
-
-\### 3️⃣ AI-Style Assistant Logic
-
-\- Built a basic rule-based assistant to answer retail performance questions
-
-
+- Python (Pandas, NumPy, Matplotlib)  
+- Power BI  
+- SQL  
+- Git & GitHub  
 
 ---
 
+## 📊 Dashboard Insights
 
+The Power BI dashboard provides:
 
-\## 📊 Dashboard Features (Power BI)
-
-\- Total Sales KPI
-
-\- Total Profit KPI
-
-\- Sales by Category
-
-\- Monthly Trend Analysis
-
-\- Top 10 Products
-
-\- Region \& Year Slicers
-
-
+- Total Sales Overview  
+- Profit Analysis  
+- Region-wise Performance  
+- Category-wise Sales Breakdown  
+- Trend Analysis Over Time  
 
 ---
 
+---
 
+## 🎯 Business Impact
 
-\## 🎯 Business Impact
+This project demonstrates how data analytics can help businesses:
 
-\- Identifies high-performing categories
-
-\- Detects seasonal sales patterns
-
-\- Highlights top revenue-generating products
-
-\- Enables data-driven decision-making
-
-
+- Identify high-performing products  
+- Detect low-profit regions  
+- Optimize pricing strategies  
+- Improve data-driven decision-making  
 
 ---
 
-
-
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 Abhyudaya Mahapatra  
+Aspiring Data Analyst | Python | Power BI | SQL
 
-Aspiring AI-Assisted Data Analyst
-
+## 📂 Project Structure
