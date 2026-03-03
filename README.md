@@ -2,14 +2,14 @@
 
 
 
-!\[Dashboard Preview](./Dashboard\_preview.png)
+!\[Dashboard Preview](Dashboard\_preview.png)
 
 
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end retail analytics workflow using Python and Power BI.  
 
-The objective is to clean, analyze, and extract business insights from retail sales data using an AI-assisted approach.
+The objective is to clean, analyse, and extract business insights from retail sales data using an AI-assisted approach.
 
 
 
