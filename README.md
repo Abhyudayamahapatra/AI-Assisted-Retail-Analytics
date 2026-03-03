@@ -1,6 +1,5 @@
 \# AI-Assisted Retail Sales Analytics
 
-
 !\[Dashboard Preview](Dashboard/Dashboard\_preview.png)
 ## 📌 Project Overview
 
